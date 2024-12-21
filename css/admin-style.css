@@ -1,0 +1,12 @@
+/* css/admin-style.css */
+
+/* Estilo para el campo de entrada de precio */
+.price-input {
+    width: 100px;
+}
+
+/* Estilo para el botón "Guardar" */
+.save-button {
+    background-color: #28a745;
+    color: #fff;
+}
